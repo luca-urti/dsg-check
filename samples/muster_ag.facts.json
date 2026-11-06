@@ -1,0 +1,14 @@
+{
+  "_hinweis": "Wahrheit (Ground Truth) zu den vier Beispieltexten. Ab Woche 4 misst du deine Extraktion daran.",
+  "controller": "Muster AG",
+  "address": "Bahnhofstrasse 1, 8001 Zürich",
+  "uid": "CHE-123.456.788",
+  "contact_email": "datenschutz@muster-ag.example",
+  "purposes": ["Vertragsabwicklung", "Kundenanfragen", "Newsletter (mit Einwilligung)"],
+  "data_categories": ["Name", "Adresse", "E-Mail-Adresse", "Bestelldaten", "Zahlungsinformationen"],
+  "recipients": ["IT-Dienstleister", "Zahlungsanbieter"],
+  "countries": ["DE"],
+  "retention": {"Vertragsdaten": "10 Jahre", "Newsletter-Daten": "bis zur Abmeldung"},
+  "rights": ["Auskunft", "Berichtigung", "Löschung"],
+  "last_updated": "2026-03-01"
+}

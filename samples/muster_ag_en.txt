@@ -1,0 +1,11 @@
+Privacy notice of Muster AG
+
+The controller responsible for processing your personal data is Muster AG, Bahnhofstrasse 1, 8001 Zurich (UID CHE-123.456.788). If you have questions about data protection, contact us at datenschutz@muster-ag.example.
+
+We process personal data to perform contracts, answer customer requests and, with your consent, send our newsletter. This includes name, address, email address, order data and payment information.
+
+We disclose personal data to IT service providers and payment providers acting on our behalf. Our servers are located in Germany. According to the Federal Council, Germany ensures an adequate level of data protection.
+
+We keep contract data for ten years because the law requires it. We delete newsletter data as soon as you unsubscribe.
+
+You can request information about your data, have incorrect data corrected and have data deleted. Last updated: 1 March 2026.

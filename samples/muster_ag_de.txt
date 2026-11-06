@@ -1,0 +1,11 @@
+Datenschutzerklärung der Muster AG
+
+Verantwortlich für die Bearbeitung Ihrer Personendaten ist die Muster AG, Bahnhofstrasse 1, 8001 Zürich (UID CHE-123.456.788). Bei Fragen zum Datenschutz erreichen Sie uns unter datenschutz@muster-ag.example.
+
+Wir bearbeiten Personendaten, um Verträge abzuwickeln, Kundenanfragen zu beantworten und, mit Ihrer Einwilligung, unseren Newsletter zu versenden. Dazu gehören Name, Adresse, E-Mail-Adresse, Bestelldaten und Zahlungsinformationen.
+
+Wir geben Personendaten an IT-Dienstleister und Zahlungsanbieter weiter, die in unserem Auftrag arbeiten. Unsere Server stehen in Deutschland. Deutschland gewährleistet nach Einschätzung des Bundesrates einen angemessenen Datenschutz.
+
+Wir bewahren Vertragsdaten zehn Jahre auf, weil das Gesetz es verlangt. Newsletter-Daten löschen wir, sobald Sie sich abmelden.
+
+Sie können Auskunft über Ihre Daten verlangen, falsche Daten berichtigen und Daten löschen lassen. Stand: 1. März 2026.
